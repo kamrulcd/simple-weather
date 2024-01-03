@@ -1,0 +1,5 @@
+ <h1 class="cityDisp">Rajshahi</h1>
+        <p class="tempDisp">25 degree celcius</p>
+        <p class="humDisp">Humidity: 60%</p>
+        <p class="descDisp">Clear Skies</p>
+        <p class="errorDisp">Please Enter a city</p>
